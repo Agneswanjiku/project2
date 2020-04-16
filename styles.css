@@ -46,21 +46,23 @@ body{
 }
 #section-a{
     padding: 20px;
-    background: #926239;
-    color: rgb(71, 4, 10);
-    background-size: inherit;
+    background-position: center;
+    background-size: cover;
+    background: #fff;
+    color:rgb(7, 7, 14);
+    background-size: initial;
     text-align: center;
     height: 100vh;
-    background-image:url("https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170720165901-kenya-beaches-nyali---private-beach-dining-photo-courtesy-sarova-whitesands.jpg");
-}
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWWStuomQcvD_hNR88JYicVmYBePHL70-2lyfJBCzUASMQDRwO&usqp=CAU");
+    }
 #section-b{
     padding: 20px;
     background: f4f4f4;
-    background-image: url("https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170720165901-kenya-beaches-nyali---private-beach-dining-photo-courtesy-sarova-whitesands.jpg");
+    
 }
 #section-c{
-    background: #551122;
+    background-color: black;
     color: antiquewhite;
     text-align: center;
-    background-image: url("https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170720165119-kenya-beaches-diani---afrochic-sunbed-on-the-sand-photo-courtesy-afrochic-diani-beach.jpg");
+   
 }
